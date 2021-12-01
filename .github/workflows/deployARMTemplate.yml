@@ -27,4 +27,4 @@ jobs:
           scope: resourcegroup
           subscriptionId: c28295be-7e0e-406a-b8cf-1d3f6171b0f5
           resourceGroupName: GitHubActionExercise-rg
-          template: $GITHUB_WORKSPACE/azuredeploy.json
+          template: ./azuredeploy.json
